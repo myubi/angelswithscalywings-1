@@ -1,7 +1,6 @@
 ---
 label: comics
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -20,3 +19,4 @@ fields:
   default: comics
 pages:
 - content/comics/4.md
+- content/test.md
