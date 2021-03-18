@@ -1,4 +1,37 @@
 ---
 label: testing2
 hide_body: false
-fields: []
+fields:
+- name: fgfdgdfg
+  type: text
+  config:
+    required: false
+  label: fgfdgdfg
+- name: dfgdfgfdgdfg
+  type: text
+  config:
+    required: false
+  label: dfgdfgfdgdfg
+- name: dfgdfgdfgdfgdf
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: dfgdfgdfgdfgdf
+- name: dfgdfgdfg
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: dfgdfgdfg
+- name: dfgfdgdfgfd
+  type: text
+  config:
+    required: false
+  label: dfgfdgdfgfd
