@@ -1,0 +1,47 @@
+---
+label: testing
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: dsfsdfsd
+  type: text
+  config:
+    required: false
+  label: dsfsdfsd
+- name: sdfsdfsdf
+  type: text
+  config:
+    required: false
+  label: sdfsdfsdf
+- name: fsdgfgdgfd
+  type: text
+  config:
+    required: false
+  label: fsdgfgdgfd
+- name: fsdgfdgfdgfd
+  type: text
+  config:
+    required: false
+  label: fsdgfdgfdgfd
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: body
+- name: fgsfgdfgfd
+  type: datetime
+  label: fgsfgdfgfd
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
